@@ -1,2 +1,3 @@
 #!/bin/bash
-chgrp holberton hell0
+chgrp school hello
+
