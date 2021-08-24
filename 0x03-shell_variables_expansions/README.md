@@ -1,0 +1,1 @@
+am going to do 0x03-shell_variables_expansions project good luck to myself
